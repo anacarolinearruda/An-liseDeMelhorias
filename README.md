@@ -1,9 +1,9 @@
 # AnaliseDeMelhorias
-Análise de Manutenção e Melhoria de Sistema CS (Spotify)
+Análise de Manutenção e Melhoria de Sistema CS (App De Música)
 
 **Introdução:**
 
-Atualmente, melhorar continuamente os produtos digitais é crucial para acompanhar as expectativas do público e se manter competitivo. Neste sentido, analisar detalhadamente diferentes aspectos de um serviço digital como o Spotify, plataforma de streaming de música, é essencial para identificar oportunidades de aprimoramento. Este trabalho se propõe a examinar de forma minuciosa os principais pontos que o Spotify pode melhorar, incluindo satisfação do usuário, competitividade, inovação, eficiência operacional, segurança e confiabilidade, além de considerar o feedback dos próprios usuários. Utilizando uma abordagem técnica sólida, buscamos entender como o Spotify pode evoluir sua plataforma para proporcionar uma experiência ainda mais satisfatória e relevante para sua base de usuários.
+Atualmente, melhorar continuamente os produtos digitais é crucial para acompanhar as expectativas do público e se manter competitivo. Neste sentido, analisar detalhadamente diferentes aspectos de um serviço digital como uma plataforma de streaming de música, é essencial para identificar oportunidades de aprimoramento. Este trabalho se propõe a examinar de forma minuciosa os principais pontos que o app pode melhorar, incluindo satisfação do usuário, competitividade, inovação, eficiência operacional, segurança e confiabilidade, além de considerar o feedback dos próprios usuários. Utilizando uma abordagem técnica sólida, buscamos entender como poderá evoluir sua plataforma para proporcionar uma experiência ainda mais satisfatória e relevante para sua base de usuários.
 
 ### 1. Satisfação do Cliente:
 
