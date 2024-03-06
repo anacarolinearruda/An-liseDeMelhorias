@@ -82,5 +82,3 @@ Atualmente, melhorar continuamente os produtos digitais é crucial para acompanh
 |-----------------------------------------|----------------------------------------|
 | Melhoria na acessibilidade das ferramentas de feedback | Aumento na taxa de participação dos usuários em pesquisas de feedback, aumento na quantidade de feedbacks úteis e acionáveis |
 | Resposta proativa às sugestões e reclamações dos usuários | Aumento na satisfação do usuário com o serviço, aumento na lealdade do cliente e recomendações positivas do produto |
-
-Essa análise detalhada aborda como o Spotify pode melhorar em diferentes áreas, juntamente com as metodologias de coleta de informações e as métricas de desempenho associadas a cada área de melhoria.
